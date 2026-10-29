@@ -307,7 +307,13 @@ def import_video():
 
 
 """MODIFIABLE VARIABLES"""
+<<<<<<< Updated upstream
 font_name = 'TYPANNOT Beta Generics-Postural_Release_v3'
+=======
+font_name = 'TYPANNOT Beta'
+output_eaf_filename = 'output.eaf'
+output_mp4_filename = 'output.mp4'
+>>>>>>> Stashed changes
 uses_mnist = False
 
 
